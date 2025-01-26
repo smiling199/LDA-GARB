@@ -1,5 +1,5 @@
 # Overview
-LDA-SCGB: Predicting lncRNA-disease associations with graph autoencoder and noise-robust gradient boosting
+LDA-GARB: Predicting lncRNA-disease associations with graph autoencoder and noise-robust gradient boosting
 # Dataset
 In this work，lncRNADisease is Dataset 1 and MNDR is Dataset 2.
 
